@@ -8,16 +8,16 @@ const STYLES = {
   small: {
     height: '8px',
     padding: '0px',
-    radius: '0px'
+    radius: '4px'
   },
   medium: {
     height: '12px',
     padding: '0px',
-    radius: '0px'
+    radius: '4px'
   },
   large: {
     height: '16px',
-    padding: '8px',
+    padding: '4px',
     radius: '8px'
   }
 }
